@@ -1,0 +1,36 @@
+baseURL = "http://hvma.sean.sweh.la/"
+languageCode = "en-us"
+title = "HV Mutual Aid"
+theme = "hugo-hero-theme"
+
+[[menu.main]]
+    name = "Mutual Aid Groups"
+    url = "/groups/"
+    weight = 1
+
+[[menu.main]]
+    name = "Get Assistance"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "Get Involved"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Register a group"
+    url = "/contact/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
+
+[markup.goldmark.renderer]
+    unsafe = true

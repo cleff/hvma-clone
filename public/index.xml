@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HV Mutual Aid</title>
+    <link>http://hvma.sean.sweh.la/</link>
+    <description>Recent content on HV Mutual Aid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 13:46:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://hvma.sean.sweh.la/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HV Mutual Aid</title>
+      <link>http://hvma.sean.sweh.la/</link>
+      <pubDate>Thu, 02 Apr 2020 13:46:39 -0400</pubDate>
+      
+      <guid>http://hvma.sean.sweh.la/</guid>
+      <description>We are a network of groups organizing to provide aid and support to New Yorkers in the midst of the COVID-19 pandemic.
+HV Mutual Aid is committed to:
+Redirecting people and resources to those at the frontlines who are providing mutual aid, advocacy and services to the hardest-hit communities.
+Providing support to local groups leading the mutual aid efforts in their neighborhoods.
+Using the HV Mutual Aid network to channel resources and amplifying needs from the ground.</description>
+    </item>
+    
+  </channel>
+</rss>
