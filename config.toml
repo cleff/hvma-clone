@@ -1,4 +1,4 @@
-baseURL = "http://hvma.sean.sweh.la/"
+baseURL = "https://demo.sean.sweh.la/"
 languageCode = "en-us"
 title = "HV Mutual Aid"
 theme = "hugo-hero-theme"
